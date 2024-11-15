@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBEF239-A733-4CA3-9379-6482A9767E34}|POM\\POM.csproj|c:\\users\\harshini_sri\\source\\repos\\alitasampleproject\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DBEF239-A733-4CA3-9379-6482A9767E34}|POM\\POM.csproj|solutionrelative:pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785F87A8-19C9-41AD-BDF1-06094333B65D}|Utilities\\Utilities.csproj|c:\\users\\harshini_sri\\source\\repos\\alitasampleproject\\utilities\\webutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{785F87A8-19C9-41AD-BDF1-06094333B65D}|Utilities\\Utilities.csproj|solutionrelative:utilities\\webutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebUtility.cs",
+              "DocumentMoniker": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\Utilities\\WebUtility.cs",
+              "RelativeDocumentMoniker": "Utilities\\WebUtility.cs",
+              "ToolTip": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\Utilities\\WebUtility.cs",
+              "RelativeToolTip": "Utilities\\WebUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:59:05.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\POM\\LoginPage.cs",
+              "RelativeDocumentMoniker": "POM\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\POM\\LoginPage.cs",
+              "RelativeToolTip": "POM\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:58:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

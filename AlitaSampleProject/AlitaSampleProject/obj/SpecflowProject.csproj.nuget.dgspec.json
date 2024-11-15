@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\SpecflowProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\SpecflowProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\SpecflowProject.csproj",
+        "projectName": "SpecflowProject",
+        "projectPath": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\SpecflowProject.csproj",
+        "packagesPath": "C:\\Users\\harshini_sri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshini_sri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

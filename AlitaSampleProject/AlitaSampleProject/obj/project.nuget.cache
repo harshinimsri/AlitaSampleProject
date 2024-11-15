@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtpejPdtPUI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harshini_sri\\source\\repos\\AlitaSampleProject\\AlitaSampleProject\\SpecflowProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\specflow\\3.9.40\\specflow.3.9.40.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\specflow.nunit\\3.9.40\\specflow.nunit.3.9.40.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.40\\specflow.tools.msbuild.generation.3.9.40.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\harshini_sri\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
